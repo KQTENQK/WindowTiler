@@ -18,6 +18,7 @@ bring_to_top = true|false
 
 ### Example
 
+```
 [Note]
 mode = grid
 cols = 2
@@ -30,6 +31,7 @@ mode = explicit
 rects = 0,0,400,300; 400,0,400,300
 process = calculator.exe
 bring_to_top = false
+```
 
 
 
