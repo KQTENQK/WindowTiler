@@ -1,0 +1,50 @@
+# Compiled binaries
+*.exe
+*.dll
+*.lib
+*.pdb
+*.obj
+*.ilk
+*.exp
+
+# Build directories
+build/
+bin/
+obj/
+out/
+x64/
+x86/
+Release/
+Debug/
+Dist/
+
+# Package files
+*.egg-info/
+dist/
+build/
+
+# IDE files
+.vs/
+.vscode/
+.idea/
+*.sln
+*.vcxproj*
+*.cmake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+
+# Logs
+*.log
+*.tmp
+
+# User-specific files
+*.user
+*.suo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# External libraries
+External/
